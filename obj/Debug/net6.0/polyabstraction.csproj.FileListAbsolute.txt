@@ -1,0 +1,15 @@
+D:\AMIKOM\Semester 2\Pemrograman\Materi\c#\polyabstraction\obj\Debug\net6.0\polyabstraction.csproj.AssemblyReference.cache
+D:\AMIKOM\Semester 2\Pemrograman\Materi\c#\polyabstraction\obj\Debug\net6.0\polyabstraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\AMIKOM\Semester 2\Pemrograman\Materi\c#\polyabstraction\obj\Debug\net6.0\polyabstraction.AssemblyInfoInputs.cache
+D:\AMIKOM\Semester 2\Pemrograman\Materi\c#\polyabstraction\obj\Debug\net6.0\polyabstraction.AssemblyInfo.cs
+D:\AMIKOM\Semester 2\Pemrograman\Materi\c#\polyabstraction\obj\Debug\net6.0\polyabstraction.csproj.CoreCompileInputs.cache
+D:\AMIKOM\Semester 2\Pemrograman\Materi\c#\polyabstraction\bin\Debug\net6.0\polyabstraction.exe
+D:\AMIKOM\Semester 2\Pemrograman\Materi\c#\polyabstraction\bin\Debug\net6.0\polyabstraction.deps.json
+D:\AMIKOM\Semester 2\Pemrograman\Materi\c#\polyabstraction\bin\Debug\net6.0\polyabstraction.runtimeconfig.json
+D:\AMIKOM\Semester 2\Pemrograman\Materi\c#\polyabstraction\bin\Debug\net6.0\polyabstraction.dll
+D:\AMIKOM\Semester 2\Pemrograman\Materi\c#\polyabstraction\bin\Debug\net6.0\polyabstraction.pdb
+D:\AMIKOM\Semester 2\Pemrograman\Materi\c#\polyabstraction\obj\Debug\net6.0\polyabstraction.dll
+D:\AMIKOM\Semester 2\Pemrograman\Materi\c#\polyabstraction\obj\Debug\net6.0\refint\polyabstraction.dll
+D:\AMIKOM\Semester 2\Pemrograman\Materi\c#\polyabstraction\obj\Debug\net6.0\polyabstraction.pdb
+D:\AMIKOM\Semester 2\Pemrograman\Materi\c#\polyabstraction\obj\Debug\net6.0\polyabstraction.genruntimeconfig.cache
+D:\AMIKOM\Semester 2\Pemrograman\Materi\c#\polyabstraction\obj\Debug\net6.0\ref\polyabstraction.dll
